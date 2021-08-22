@@ -1,0 +1,32 @@
+      body{
+        background-color:AliceBlue;
+      }
+      .quiz{
+         border: 5px solid black;
+         margin:10%;
+      }
+      .question{
+        margin: auto;
+        width: 60%;
+        border: 3px solid none;
+        padding: 10px;
+         word-wrap: break-word;
+      }
+      .submit{
+        background-color:aqua;
+        width:100%;
+        height:30px;
+      }
+      #reload{
+        background-color: #4CAF50; /* Green */
+        border: solid 3px black;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        display: flex;
+        font-size:30px;
+        width:100%;
+        height:100px;
+        justify-content:center;
+        padding-top:20px;
+      }
